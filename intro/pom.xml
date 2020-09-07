@@ -8,8 +8,8 @@
 		<version>2.3.3.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.sample</groupId>
-	<artifactId>intro</artifactId>
+	<groupId>com.intro</groupId>
+	<artifactId>spring-boot-portfolio</artifactId>
 	<version>1.0</version>
 	<name>intro</name>
 	<description>soyeong portfolio</description>
